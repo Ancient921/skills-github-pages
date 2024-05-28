@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: My GitHub pages blog
 ---
 
+# This is a weblog
